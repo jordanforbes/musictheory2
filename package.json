@@ -1,0 +1,19 @@
+{
+  "name": "musictheory2",
+  "version": "1.0.0",
+  "description": "music theory app 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kirkobane/musictheory2.git"
+  },
+  "author": "Jordan Forbes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kirkobane/musictheory2/issues"
+  },
+  "homepage": "https://github.com/kirkobane/musictheory2#readme"
+}
